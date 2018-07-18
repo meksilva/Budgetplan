@@ -1,0 +1,46 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.2.0)
+  - Cosmos (12.0.1)
+  - FTImageViewer (2.0.1):
+    - Kingfisher
+  - IQKeyboardManagerSwift (5.0.0)
+  - Kingfisher (4.6.1)
+  - ListPlaceholder (1.2)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - SwiftMessages (4.0.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Cosmos (~> 12.0)
+  - FTImageViewer
+  - IQKeyboardManagerSwift
+  - ListPlaceholder
+  - SDWebImage
+  - SwiftMessages
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActionSheetPicker-3.0
+    - Cosmos
+    - FTImageViewer
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - ListPlaceholder
+    - SDWebImage
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: d11a4c12c6aaf704b8a3f56d179198c99f3e41e6
+  Cosmos: 4a9f57998a08788a1062c7b8eefbc62d2b590f39
+  FTImageViewer: bb32a6efb11348b78ac832f0132a00f91e5b7b45
+  IQKeyboardManagerSwift: 3f340202ebe1a7076279b9b9b3c817243ddb3aab
+  Kingfisher: 1f9157d9c02b380cbd0b7cc890161195164eb634
+  ListPlaceholder: 48227c2f1ff0cd2f75c8e2bb26b5a45a29cf1d4c
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  SwiftMessages: cd565e0e7d095584be1770c012c6b5be4183b5ee
+
+PODFILE CHECKSUM: e67b92cd5cacd969c69ced04c8bd02d669ef0eee
+
+COCOAPODS: 1.5.3
